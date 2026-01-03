@@ -7,7 +7,6 @@ data/
 *.csv
 *.parquet
 *.db
-Skill/
 
 # Python
 __pycache__/
